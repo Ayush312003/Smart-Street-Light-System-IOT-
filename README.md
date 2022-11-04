@@ -1,0 +1,2 @@
+# Smart-Street-Light-System-IOT-
+This project is about Smart street light, street light will turn on while vehicle is passing through it.Here we are using 2 IR sensors that senses the position of the vehicle, each IR sensor controls 2 LED's out of 3. When vehicle passes by a particular IR sensor it senses the position of vehicle and gives its signal to the arduino board and it will turn on the LED's.
